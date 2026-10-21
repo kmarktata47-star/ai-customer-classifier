@@ -1,0 +1,33 @@
+message,expected_category,expected_urgency
+"My card was charged twice for the same order and I need help.",Payment Issue,High
+"I was charged $49 but my plan costs $29.",Payment Issue,High
+"Can you explain what the extra fee on my invoice is?",Payment Issue,Low
+"My payment keeps failing but my bank says the card is fine.",Payment Issue,Medium
+"Do you accept PayPal or only credit cards?",Payment Issue,Low
+"The app crashes every time I open it.",Technical Problem,High
+"The export to PDF button does nothing but I can export to Word instead.",Technical Problem,Medium
+"The website is very slow when I upload photos.",Technical Problem,Medium
+"The notification sound is a bit too quiet on my phone.",Technical Problem,Low
+"Nobody on my team can load the dashboard and we have a client meeting in an hour.",Technical Problem,High
+"I cannot log in and the password reset email never arrives.",Account Access,High
+"My account was locked after too many login attempts.",Account Access,High
+"How do I change the email address on my account?",Account Access,Low
+"I forgot my username but I can still log in with my email.",Account Access,Low
+"The two-factor code is not working but I can use a backup code.",Account Access,Medium
+"My package was supposed to arrive last week and tracking has not updated.",Shipping/Delivery,Medium
+"The package arrived damaged.",Shipping/Delivery,Medium
+"Can I change the delivery address for an order I placed this morning?",Shipping/Delivery,Medium
+"How long does standard shipping usually take?",Shipping/Delivery,Low
+"I received someone else's order instead of mine.",Shipping/Delivery,Medium
+"I want a refund for my subscription that I forgot to cancel.",Refund Request,Medium
+"The product I received is broken and I want my money back.",Refund Request,Medium
+"I returned my item two weeks ago and still have not received my refund.",Refund Request,Medium
+"Please refund me for the duplicate order I accidentally placed yesterday.",Refund Request,Medium
+"I would like a refund if possible but there is no rush.",Refund Request,Low
+"What are your customer support opening hours?",General Inquiry,Low
+"Great service, thank you so much!",General Inquiry,Low
+"Do you offer discounts for students?",General Inquiry,Low
+"I would like to suggest a new feature for the app.",General Inquiry,Low
+"Where can I find your privacy policy?",General Inquiry,Low
+"I was charged twice and the app also crashed when I tried to pay.",Payment Issue,High
+"asdfgh",General Inquiry,Low
